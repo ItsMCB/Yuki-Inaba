@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "watch" : true,
+        "moduleResolution": "node",
+        "pretty": true,
+        "declaration": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "noImplicitReturns": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "outDir": "./dist",
+        "rootDir": "./src"
+    }
+}
